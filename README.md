@@ -1,4 +1,4 @@
-# VenezuelaSQL
+# VenezuelaSQL 🇻🇪
 
 _Base de datos con la división político territorial de Venezuela._
 
