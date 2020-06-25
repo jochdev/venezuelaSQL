@@ -4,7 +4,7 @@ _Base de datos con la división político territorial de Venezuela._
 
 ## Incluye 📋
 
-- Estados *(ISO 3166-2)*
+- Estados *([ISO 3166-2](https://es.wikipedia.org/wiki/ISO_3166-2:VE))*
 - Ciudades
 - Municipios
 - Parroquias
@@ -25,3 +25,6 @@ _El script ejecuta las instrucciones de creación e inserción de todas las tabl
 * [Wikipedia](https://es.m.wikipedia.org/wiki/Categor%C3%ADa:Parroquias_de_Venezuela) (2020). Anexo: Parroquias de Venezuela.
 ---
 [Joch.dev](https://joch.dev)
+
+
+
